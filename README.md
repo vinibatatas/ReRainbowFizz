@@ -2,7 +2,7 @@
 
 Utilitário nativo de alto desempenho em C# / .NET 10 desenvolvido para o teclado mecânico 60% **Redragon Fizz Rainbow (K617-R)**.
 
-O modelo Rainbow não possui suporte ao software RGB oficial da fabricante devido a limitações de firmware da sua controladora Sinowealth (VID: `0x258A`, PID: `0x002A`). Este projeto resolve essa limitação criando uma camada completa de macros e mídia no Windows operada diretamente pela tecla física **FN2** e por **Hold Layer** (Caps Lock), mantendo os atalhos de iluminação do teclado intactos.
+O modelo Rainbow não possui suporte ao software RGB oficial da fabricante devido a limitações de firmware. Este projeto resolve essa limitação criando uma camada completa de macros e mídia no Windows operada diretamente pela tecla física **FN2** e por **Hold Layer** (Caps Lock), mantendo os atalhos de iluminação do teclado intactos.
 
 ---
 
