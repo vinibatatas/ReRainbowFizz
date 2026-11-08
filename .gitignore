@@ -1,0 +1,33 @@
+# ==============================================================================
+# ReRainbowFizz — Git Ignore para Código-Fonte (.NET / C#)
+# ==============================================================================
+
+# Compilação e Artefatos de Build
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.exe
+*.dll
+*.pdb
+
+# Pacotes temporários de empacotamento do instalador
+Installer/AppBundle/
+Installer/payload.zip
+Uninstaller/bin/
+Uninstaller/obj/
+
+# Arquivos de IDE e Configurações de Usuário
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Arquivos temporários do Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
