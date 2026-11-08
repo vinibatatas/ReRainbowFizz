@@ -1,4 +1,4 @@
-# ReRainbowFizz — Código-Fonte (.NET 10 / C#)
+# ReRainbowFizz — (.NET 10 / C#)
 
 Utilitário nativo de alto desempenho em C# / .NET 10 desenvolvido para o teclado mecânico 60% **Redragon Fizz Rainbow (K617-R)**.
 
